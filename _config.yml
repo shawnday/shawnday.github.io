@@ -6,6 +6,7 @@ title: Shawn Day
 description: this is the personal website of shawn day
 twitter_username: iridium
 github_username:  shawnday
+email: shawn.day@ucc.ie
 
 plugins:
   - jekyll-feed
