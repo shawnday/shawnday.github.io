@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: benbalter/retlab
 title: Shawn Day
 description: this is the personal website of shawn day
 twitter_username: iridium
