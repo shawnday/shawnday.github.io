@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: ecds/digitaledition-jekylltheme
 #remote_theme: benbalter/retlab
 #remote_theme: pmarsceill/just-the-docs
 #remote_theme: shawnday/minimal
